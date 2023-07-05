@@ -1,0 +1,245 @@
+06/18/2023 02:35:57 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:35:58 PM: INFO: **********************Test_001_Login*********************
+06/18/2023 02:35:58 PM: INFO: ***********************Verifying Home Page Title****************
+06/18/2023 02:36:02 PM: INFO: ********************Home Page title test is passed*************************
+06/18/2023 02:36:02 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:36:03 PM: INFO: ********************Verifying Login test*************************
+06/18/2023 02:36:09 PM: INFO: ********************Login test is passed*************************
+06/18/2023 02:45:24 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:45:32 PM: INFO: **********************Test_001_Login*********************
+06/18/2023 02:45:32 PM: INFO: ***********************Verifying Home Page Title****************
+06/18/2023 02:45:35 PM: INFO: ********************Home Page title test is passed*************************
+06/18/2023 02:45:36 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:45:42 PM: INFO: ********************Verifying Login test*************************
+06/18/2023 02:45:49 PM: INFO: ********************Login test is passed*************************
+06/18/2023 02:49:22 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:49:43 PM: WARNING: Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\My Data\Selenium Frameworks\CodeS\PythonFramework\venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser internet explorer --output json.
+error sending request for url (https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/mirror/selenium): error trying to connect: tcp connect error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (os error 10060)
+06/18/2023 02:49:43 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:50:05 PM: WARNING: Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\My Data\Selenium Frameworks\CodeS\PythonFramework\venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser internet explorer --output json.
+error sending request for url (https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/mirror/selenium): error trying to connect: tcp connect error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (os error 10060)
+06/18/2023 02:50:28 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:50:32 PM: INFO: **********************Test_001_Login*********************
+06/18/2023 02:50:32 PM: INFO: ***********************Verifying Home Page Title****************
+06/18/2023 02:50:34 PM: INFO: ********************Home Page title test is passed*************************
+06/18/2023 02:50:34 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:50:38 PM: INFO: ********************Verifying Login test*************************
+06/18/2023 02:50:43 PM: INFO: ********************Login test is passed*************************
+06/18/2023 02:52:01 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:52:01 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 02:52:03 PM: INFO: ********************Verifying Login test*************************
+06/18/2023 02:52:03 PM: INFO: **********************Test_001_Login*********************
+06/18/2023 02:52:03 PM: INFO: ***********************Verifying Home Page Title****************
+06/18/2023 02:52:06 PM: INFO: ********************Home Page title test is passed*************************
+06/18/2023 02:52:08 PM: INFO: ********************Login test is passed*************************
+06/18/2023 03:05:47 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 03:05:49 PM: INFO: **********************Test_001_Login*********************
+06/18/2023 03:05:49 PM: INFO: ***********************Verifying Home Page Title****************
+06/18/2023 03:05:49 PM: INFO: ********************Verifying Login test*************************
+06/18/2023 03:05:51 PM: INFO: ********************Home Page title test is passed*************************
+06/18/2023 03:05:54 PM: INFO: ********************Login test is passed*************************
+06/18/2023 03:43:23 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 03:43:24 PM: INFO: ********************Test_002_DDT_Login*************************
+06/18/2023 03:43:24 PM: INFO: ********************Verifying Login DDT test*************************
+06/18/2023 03:43:36 PM: INFO: ***Passed****
+06/18/2023 03:44:27 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 03:44:28 PM: INFO: ********************Test_002_DDT_Login*************************
+06/18/2023 03:44:28 PM: INFO: ********************Verifying Login DDT test*************************
+06/18/2023 03:44:41 PM: INFO: ***Passed****
+06/18/2023 03:48:25 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 03:48:26 PM: INFO: ********************Test_002_DDT_Login*************************
+06/18/2023 03:48:26 PM: INFO: ********************Verifying Login DDT test*************************
+06/18/2023 03:48:37 PM: INFO: ***Passed****
+06/18/2023 03:59:02 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 03:59:04 PM: INFO: ********************Test_002_DDT_Login*************************
+06/18/2023 03:59:04 PM: INFO: ********************Verifying Login DDT test*************************
+06/18/2023 03:59:14 PM: INFO: ***Passed****
+06/18/2023 04:05:44 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 04:05:46 PM: INFO: ********************Test_002_DDT_Login*************************
+06/18/2023 04:05:46 PM: INFO: ********************Verifying Login DDT test*************************
+06/18/2023 04:05:57 PM: INFO: ***Passed****
+06/18/2023 04:09:14 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 04:09:15 PM: INFO: ********************Test_002_DDT_Login*************************
+06/18/2023 04:09:15 PM: INFO: ********************Verifying Login DDT test*************************
+06/18/2023 04:09:32 PM: INFO: ***Passed****
+06/18/2023 04:09:39 PM: INFO: ***Passed****
+06/18/2023 04:11:56 PM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/18/2023 04:11:57 PM: INFO: ********************Test_002_DDT_Login*************************
+06/18/2023 04:11:57 PM: INFO: ********************Verifying Login DDT test*************************
+06/18/2023 04:12:07 PM: INFO: ***Passed****
+06/18/2023 04:12:14 PM: INFO: ***Passed****
+06/18/2023 04:12:20 PM: INFO: ***Passed****
+06/18/2023 04:12:20 PM: INFO: ***********Login DDT Test passed********88
+06/18/2023 04:12:20 PM: INFO: ***********End of Login DDT Test********88
+06/18/2023 04:12:20 PM: INFO: ***********Completed Test_002_DDT_Login********88
+06/20/2023 01:23:09 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/20/2023 01:23:11 AM: INFO: **************Test_003_AddCustomer************
+06/20/2023 01:23:17 AM: INFO: ************Login successful*************
+06/20/2023 01:23:17 AM: INFO: ****************Starting Add Customer Test****************
+06/20/2023 01:26:38 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/20/2023 01:26:40 AM: INFO: **************Test_003_AddCustomer************
+06/20/2023 01:26:46 AM: INFO: ************Login successful*************
+06/20/2023 01:26:46 AM: INFO: ****************Starting Add Customer Test****************
+06/20/2023 01:31:25 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/20/2023 01:31:26 AM: INFO: **************Test_003_AddCustomer************
+06/20/2023 01:31:32 AM: INFO: ************Login successful*************
+06/20/2023 01:31:32 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 08:51:19 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 08:51:21 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 08:51:26 AM: INFO: ************Login successful*************
+06/21/2023 08:51:26 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:02:12 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:02:14 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:02:21 AM: INFO: ************Login successful*************
+06/21/2023 09:02:21 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:03:49 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:03:50 AM: INFO: ********************Test_002_DDT_Login*************************
+06/21/2023 09:03:50 AM: INFO: ********************Verifying Login DDT test*************************
+06/21/2023 09:04:00 AM: INFO: ***Passed****
+06/21/2023 09:04:07 AM: INFO: ***Passed****
+06/21/2023 09:04:12 AM: INFO: ***Passed****
+06/21/2023 09:04:12 AM: INFO: ***********Login DDT Test passed********88
+06/21/2023 09:04:12 AM: INFO: ***********End of Login DDT Test********88
+06/21/2023 09:04:12 AM: INFO: ***********Completed Test_002_DDT_Login********88
+06/21/2023 09:07:54 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:07:55 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:08:01 AM: INFO: ************Login successful*************
+06/21/2023 09:08:01 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:08:03 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:08:57 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:08:58 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:09:04 AM: INFO: ************Login successful*************
+06/21/2023 09:09:04 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:09:49 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:09:51 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:09:57 AM: INFO: ************Login successful*************
+06/21/2023 09:09:57 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:10:00 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:10:35 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:10:36 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:10:42 AM: INFO: ************Login successful*************
+06/21/2023 09:10:42 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:10:44 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:11:48 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:11:49 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:11:55 AM: INFO: ************Login successful*************
+06/21/2023 09:11:55 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:11:57 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:15:16 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:15:17 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:15:23 AM: INFO: ************Login successful*************
+06/21/2023 09:15:23 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:15:26 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:15:56 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:15:57 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:16:04 AM: INFO: ************Login successful*************
+06/21/2023 09:16:04 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:16:06 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:19:01 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:19:02 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:19:07 AM: INFO: ************Login successful*************
+06/21/2023 09:19:07 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:19:10 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:21:15 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:21:16 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:21:23 AM: INFO: ************Login successful*************
+06/21/2023 09:21:23 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:21:25 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:32:09 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:32:10 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:32:15 AM: INFO: ************Login successful*************
+06/21/2023 09:32:15 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:32:18 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:34:06 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:34:08 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:34:13 AM: INFO: ************Login successful*************
+06/21/2023 09:34:13 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:34:15 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:34:22 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:34:24 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:34:29 AM: INFO: ************Login successful*************
+06/21/2023 09:34:29 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:34:32 AM: INFO: ****************Providing Customer Info****************
+06/21/2023 09:36:08 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/21/2023 09:36:09 AM: INFO: **************Test_003_AddCustomer************
+06/21/2023 09:36:15 AM: INFO: ************Login successful*************
+06/21/2023 09:36:15 AM: INFO: ****************Starting Add Customer Test****************
+06/21/2023 09:36:17 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:00:28 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:00:30 AM: INFO: *****************SearchCustomerByEmail_004*********************
+06/22/2023 12:00:36 AM: INFO: *****************Login Successful*********************
+06/22/2023 12:00:36 AM: INFO: *****************Starting Search Customer By Email*********************
+06/22/2023 12:00:37 AM: INFO: *****************Searching Customer By EmailID*********************
+06/22/2023 12:00:43 AM: INFO: *****************TC_SearchCustomerByEmail_004 Finished*********************
+06/22/2023 12:00:53 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:00:54 AM: INFO: **************Test_003_AddCustomer************
+06/22/2023 12:01:00 AM: INFO: ************Login successful*************
+06/22/2023 12:01:00 AM: INFO: ****************Starting Add Customer Test****************
+06/22/2023 12:01:03 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:02:45 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:02:47 AM: INFO: **************Test_003_AddCustomer************
+06/22/2023 12:02:53 AM: INFO: ************Login successful*************
+06/22/2023 12:02:53 AM: INFO: ****************Starting Add Customer Test****************
+06/22/2023 12:02:55 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:16:04 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:16:05 AM: INFO: **************Test_003_AddCustomer************
+06/22/2023 12:16:11 AM: INFO: ************Login successful*************
+06/22/2023 12:16:11 AM: INFO: ****************Starting Add Customer Test****************
+06/22/2023 12:16:13 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:16:22 AM: INFO: ****************Saving Customer Info****************
+06/22/2023 12:16:22 AM: INFO: ****************Add Customer Validation****************
+06/22/2023 12:17:18 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:17:20 AM: INFO: **************Test_003_AddCustomer************
+06/22/2023 12:17:24 AM: INFO: ************Login successful*************
+06/22/2023 12:17:24 AM: INFO: ****************Starting Add Customer Test****************
+06/22/2023 12:17:26 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:17:35 AM: INFO: ****************Saving Customer Info****************
+06/22/2023 12:17:35 AM: INFO: ****************Add Customer Validation****************
+06/22/2023 12:20:43 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:20:44 AM: INFO: **************Test_003_AddCustomer************
+06/22/2023 12:20:49 AM: INFO: ************Login successful*************
+06/22/2023 12:20:49 AM: INFO: ****************Starting Add Customer Test****************
+06/22/2023 12:20:51 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:21:00 AM: INFO: ****************Saving Customer Info****************
+06/22/2023 12:21:00 AM: INFO: ****************Add Customer Validation****************
+06/22/2023 12:28:14 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:28:15 AM: INFO: **************Test_003_AddCustomer************
+06/22/2023 12:28:20 AM: INFO: ************Login successful*************
+06/22/2023 12:28:20 AM: INFO: ****************Starting Add Customer Test****************
+06/22/2023 12:28:23 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:30:51 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:30:52 AM: INFO: **************Test_003_AddCustomer************
+06/22/2023 12:30:58 AM: INFO: ************Login successful*************
+06/22/2023 12:30:58 AM: INFO: ****************Starting Add Customer Test****************
+06/22/2023 12:31:00 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:31:12 AM: INFO: ****************Saving Customer Info****************
+06/22/2023 12:31:12 AM: INFO: ****************Add Customer Validation****************
+06/22/2023 12:31:12 AM: INFO: ****************Add Customer Passed***************************
+06/22/2023 12:31:12 AM: INFO: ****************Ending Add Customer Test***************************
+06/22/2023 12:34:24 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:34:26 AM: INFO: *****************SearchCustomerByEmail_004*********************
+06/22/2023 12:34:32 AM: INFO: *****************Login Successful*********************
+06/22/2023 12:34:32 AM: INFO: *****************Starting Search Customer By Name*********************
+06/22/2023 12:34:33 AM: INFO: *****************Searching Customer By Name*********************
+06/22/2023 12:36:24 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:36:26 AM: INFO: *****************SearchCustomerByEmail_004*********************
+06/22/2023 12:36:32 AM: INFO: *****************Login Successful*********************
+06/22/2023 12:36:32 AM: INFO: *****************Starting Search Customer By Name*********************
+06/22/2023 12:36:34 AM: INFO: *****************Searching Customer By Name*********************
+06/22/2023 12:36:40 AM: INFO: *****************TC_SearchCustomerByName_005 Finished*********************
+06/22/2023 12:49:27 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:49:28 AM: INFO: **********************Test_001_Login*********************
+06/22/2023 12:49:28 AM: INFO: ***********************Verifying Home Page Title****************
+06/22/2023 12:49:31 AM: INFO: ********************Home Page title test is passed*************************
+06/22/2023 12:49:31 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:49:32 AM: INFO: ********************Verifying Login test*************************
+06/22/2023 12:49:38 AM: INFO: ********************Login test is passed*************************
+06/22/2023 12:49:38 AM: INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/22/2023 12:49:39 AM: INFO: **************Test_003_AddCustomer************
+06/22/2023 12:49:45 AM: INFO: ************Login successful*************
+06/22/2023 12:49:45 AM: INFO: ****************Starting Add Customer Test****************
+06/22/2023 12:49:48 AM: INFO: ****************Providing Customer Info****************
+06/22/2023 12:49:59 AM: INFO: ****************Saving Customer Info****************
+06/22/2023 12:49:59 AM: INFO: ****************Add Customer Validation****************
+06/22/2023 12:49:59 AM: INFO: ****************Add Customer Passed***************************
+06/22/2023 12:50:00 AM: INFO: ****************Ending Add Customer Test***************************

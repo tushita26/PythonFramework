@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (venv)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/Logs" />
+        <option value="$MODULE_DIR$/Configurations" />
+        <option value="$MODULE_DIR$/pageObjects" />
+        <option value="$MODULE_DIR$/Reports" />
+        <option value="$MODULE_DIR$/Screenshots" />
+        <option value="$MODULE_DIR$/testCases" />
+        <option value="$MODULE_DIR$/TestData" />
+        <option value="$MODULE_DIR$/utilities" />
+        <option value="$MODULE_DIR$/venv" />
+        <option value="$MODULE_DIR$/.idea" />
+        <option value="$MODULE_DIR$/.pytest_cache" />
+      </list>
+    </option>
+  </component>
+</module>
